@@ -1,5 +1,7 @@
 # EdmondLiu2058.github.io
 <https://edmondliu2058.github.io/>
-> Web Programming
-> > *jinglei liu*
-> > > **jl2058**
+> Home
+>  Blog
+> > Lab 1
+> > Site Launched
+> About
